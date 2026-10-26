@@ -1,0 +1,593 @@
+
+/* ---------- THEME VARIABLES ---------- */
+
+.app {
+  --bg-color: #f4f4f4;
+  --text-color: #111;
+  --card-bg: #ffffff;
+  --primary: #2e7d32;
+  --secondary: #ef6c00;
+}
+
+.app.dark {
+  --bg-color: #121212;
+  --text-color: #f5f5f5;
+  --card-bg: #1e1e1e;
+  --primary: #66bb6a;
+  --secondary: #ff9800;
+}
+
+/* ---------- GLOBAL ---------- */
+
+body {
+  margin: 0;
+}
+
+.app {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  min-height: 100vh;
+  transition: all 0.3s ease;
+}
+
+/* ---------- DARK MODE TOGGLE ---------- */
+
+.dark-toggle {
+  position: fixed;
+  top: 15px;
+  right: 20px;
+  z-index: 1000;
+}
+
+.dark-toggle button {
+  padding: 8px 14px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+  background: var(--primary);
+  color: white;
+  font-weight: bold;
+}
+
+/* ---------- GENERAL ELEMENTS ---------- */
+
+section {
+  padding: 60px 10%;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--primary);
+}
+
+button {
+  background: var(--primary);
+  color: white;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+/* ---------- CARDS ---------- */
+
+.card,
+.predict-box,
+.history-box {
+  background: var(--card-bg);
+  color: var(--text-color);
+}
+
+/* ---------- CONFIDENCE BAR ---------- */
+
+.confidence-fill {
+  background: var(--primary);
+}
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  background: #f4f4f4;
+}
+
+section {
+  padding: 60px 10%;
+}
+
+h1,
+h2 {
+  color: #2e7d32;
+}
+
+button {
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  background: #2e7d32;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1b5e20;
+}
+
+.card-container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  flex: 1;
+  min-width: 220px;
+  padding: 20px;
+  border-radius: 12px;
+  color: white;
+}
+
+.green {
+  background: #2e7d32;
+}
+
+.orange {
+  background: #ef6c00;
+}
+
+.predict-box {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  text-align: center;
+}
+.predict-box img {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.predict-box p {
+  font-size: 15px;
+  line-height: 1.6;
+}
+/* Image Preview */
+.preview-img {
+  width: 250px;
+  border-radius: 15px;
+  margin-bottom: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Spinner */
+.spinner {
+  width: 18px;
+  height: 18px;
+  border: 3px solid white;
+  border-top: 3px solid transparent;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  display: inline-block;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Confidence Bar */
+.confidence-bar {
+  width: 100%;
+  background: #ddd;
+  border-radius: 20px;
+  overflow: hidden;
+  margin: 10px 0;
+}
+
+.confidence-fill {
+  background: #2e7d32;
+  color: white;
+  padding: 6px;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Result Box */
+.result-box {
+  margin-top: 20px;
+}
+
+/* History */
+.history-box {
+  margin-top: 30px;
+  background: #f9f9f9;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.history-box ul {
+  list-style: none;
+  padding: 0;
+}
+
+.history-box li {
+  padding: 6px 0;
+  border-bottom: 1px solid #ddd;
+}
+/* FORCE DARK MODE BUTTON VISIBILITY */
+.dark-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 9999;
+  /* force on top */
+}
+
+.dark-toggle button {
+  background: #2e7d32 !important;
+  color: white !important;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 25px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.app {
+  min-height: 100vh;
+  position: relative;
+}
+/* REPORT SECTION */
+
+.report-section {
+  margin-top: 40px;
+  padding: 30px;
+  border-top: 2px solid var(--primary);
+}
+
+.report-card {
+  max-width: 450px;
+  margin: auto;
+  padding: 20px;
+  background: var(--card-bg);
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.report-image {
+  width: 220px;
+  border-radius: 12px;
+  margin-bottom: 15px;
+}
+
+.breed-description {
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+.report-date {
+  margin-top: 10px;
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+.download-btn {
+  margin-top: 20px;
+  padding: 10px 18px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+/* Smooth transitions everywhere */
+* {
+  transition: all 0.3s ease;
+}
+
+/* Fade-in animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Apply animation */
+.report-card,
+.result-box,
+.history-box {
+  animation: fadeIn 0.6s ease;
+}
+.preview-img,
+.report-image {
+  border-radius: 16px;
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.25);
+  transform: scale(1);
+}
+
+.preview-img:hover {
+  transform: scale(1.03);
+}
+button {
+  background: linear-gradient(135deg, #2e7d32, #66bb6a);
+  color: white;
+  border: none;
+  border-radius: 30px;
+  padding: 12px 22px;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+.confidence-fill {
+  animation: growBar 1s ease forwards;
+}
+
+@keyframes growBar {
+  from {
+    width: 0%;
+  }
+}
+section {
+  margin-bottom: 40px;
+}
+
+section h2 {
+  position: relative;
+}
+
+section h2::after {
+  content: "";
+  width: 60px;
+  height: 4px;
+  background: var(--primary);
+  display: block;
+  margin-top: 6px;
+  border-radius: 10px;
+}
+/* ---------- PDF MODE (PREVENT WASHOUT) ---------- */
+
+.pdf-mode {
+  background: #ffffff !important;
+  color: #000000 !important;
+  opacity: 1 !important;
+  filter: none !important;
+}
+
+.pdf-mode * {
+  background: #ffffff !important;
+  color: #000000 !important;
+  opacity: 1 !important;
+  filter: none !important;
+  box-shadow: none !important;
+  animation: none !important;
+  transition: none !important;
+}
+/* =========================================================
+   📱 MOBILE RESPONSIVE OPTIMIZATION
+========================================================= */
+
+/* Tablets & small laptops */
+@media (max-width: 1024px) {
+  section {
+    padding: 50px 6%;
+  }
+
+  .preview-img,
+  .report-image {
+    width: 220px;
+  }
+}
+
+/* Mobile devices */
+@media (max-width: 768px) {
+  section {
+    padding: 40px 5%;
+  }
+
+  h1 {
+    font-size: 26px;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+
+  /* Stack cards vertically */
+  .card-container {
+    flex-direction: column;
+  }
+
+  /* Predict box */
+  .predict-box {
+    padding: 22px;
+  }
+
+  /* Images */
+  .preview-img,
+  .report-image {
+    width: 100%;
+    max-width: 260px;
+  }
+
+  /* Buttons full-width */
+  button {
+    width: 100%;
+    padding: 14px;
+    font-size: 16px;
+  }
+
+  /* Confidence bar text smaller */
+  .confidence-fill {
+    font-size: 12px;
+  }
+
+  /* History spacing */
+  .history-box {
+    padding: 15px;
+  }
+
+  /* Dark toggle reposition */
+  .dark-toggle {
+    top: 12px;
+    right: 12px;
+  }
+
+  .dark-toggle button {
+    padding: 8px 14px;
+    font-size: 13px;
+  }
+}
+
+/* Small phones (very narrow screens) */
+@media (max-width: 480px) {
+  section {
+    padding: 30px 4%;
+  }
+
+  h1 {
+    font-size: 22px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+
+  /* Reduce shadows for performance */
+  .card,
+  .predict-box,
+  .report-card {
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+  }
+
+  /* Confidence bar height */
+  .confidence-bar {
+    height: 14px;
+  }
+
+  .confidence-fill {
+    line-height: 14px;
+  }
+
+  /* Download button spacing */
+  .download-btn {
+    margin-top: 15px;
+  }
+}
+/* =========================================================
+   🧹 REMOVE UGLY GAPS BETWEEN SECTIONS
+========================================================= */
+
+/* Remove bottom margin globally */
+section {
+  margin-bottom: 0;
+}
+
+/* Add spacing INSIDE sections instead */
+section>*:last-child {
+  margin-bottom: 0;
+}
+/* =========================================================
+   📞 FOOTER / CONTACT
+========================================================= */
+
+.footer {
+  background: linear-gradient(180deg, #1b5e20, #0f3d24);
+  color: white;
+  padding: 50px 10% 60px;
+  text-align: center;
+}
+
+.footer h2 {
+  color: #020402;
+}
+
+.footer p {
+  margin: 8px 0;
+  font-size: 15px;
+  opacity: 0.9;
+}
+.section-divider {
+  height: 40px;
+  background: linear-gradient(to bottom,
+      rgba(0, 0, 0, 0.05),
+      transparent);
+}
+/* =========================================================
+   🐕 POPULAR BREEDS SECTION
+========================================================= */
+
+.green-section {
+  background: linear-gradient(180deg, #2e7d32, #1b5e20);
+  color: white;
+  padding: 70px 10%;
+}
+
+.center-title {
+  text-align: center;
+  margin-bottom: 40px;
+  color: #eaffea;
+}
+
+.breed-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+.breed-card {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 16px;
+  padding: 20px;
+  text-align: center;
+  font-size: 16px;
+  backdrop-filter: blur(8px);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.25);
+}
+
+.breed-card strong {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 6px;
+}
+
+.breed-card p {
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+.breed-card:hover {
+  transform: translateY(-6px) scale(1.02);
+  background: rgba(255, 255, 255, 0.22);
+}
+.card {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 16px;
+  padding: 20px;
+  text-align: center;
+  font-size: 16px;
+  backdrop-filter: blur(8px);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.25);
+  color:green;
+  
+}
+
+.card strong {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 6px;
+}
+
+.card p {
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+.card:hover {
+  transform: translateY(-6px) scale(1.02);
+  background: rgba(255, 255, 255, 0.22);
+}

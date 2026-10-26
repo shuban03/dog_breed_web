@@ -1,0 +1,33 @@
+# Virtual environments
+venv
+venv/
+venv.nosync
+venv.nosync/
+venv_old
+venv_old/
+env/
+.env
+
+# Cloudflared and binaries
+bin/
+bin
+
+# Archive and temporary files
+images.tar
+*.tar
+*.zip
+*.log
+
+# Root duplicate model folder (backend/model is the active one)
+model/
+model
+
+# Node dependencies
+node_modules/
+frontend-react/node_modules/
+
+# System and editor files
+.DS_Store
+*.nosync
+__pycache__/
+*.pyc
