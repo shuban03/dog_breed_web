@@ -1,0 +1,2402 @@
+{
+  "affenpinscher": {
+    "display_name": "Affenpinscher",
+    "akc_group": "Toy",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Affenpinscher is a distinguished toy breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 2,
+    "fun_fact": "The Affenpinscher has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Toy Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Affenpinscher."
+    }
+  },
+  "afghan_hound": {
+    "display_name": "Afghan Hound",
+    "akc_group": "Hound",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Afghan Hound is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Afghan Hound has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Afghan Hound."
+    }
+  },
+  "african_hunting_dog": {
+    "display_name": "African Hunting Dog",
+    "akc_group": "Working",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The African Hunting Dog is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The African Hunting Dog has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the African Hunting Dog."
+    }
+  },
+  "airedale": {
+    "display_name": "Airedale",
+    "akc_group": "Terrier",
+    "origin": "United Kingdom \ud83c\uddec\ud83c\udde7",
+    "size": "Medium",
+    "weight_lbs": "30 - 50 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Airedale is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 3,
+    "grooming": 2,
+    "fun_fact": "The Airedale has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Airedale."
+    }
+  },
+  "american_staffordshire_terrier": {
+    "display_name": "American Staffordshire Terrier",
+    "akc_group": "Terrier",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The American Staffordshire Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The American Staffordshire Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the American Staffordshire Terrier."
+    }
+  },
+  "appenzeller": {
+    "display_name": "Appenzeller",
+    "akc_group": "Herding",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Appenzeller is a distinguished herding breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Appenzeller has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Herding Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Appenzeller."
+    }
+  },
+  "australian_terrier": {
+    "display_name": "Australian Terrier",
+    "akc_group": "Terrier",
+    "origin": "Australia \ud83c\udde6\ud83c\uddfa",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Australian Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Australian Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Australian Terrier."
+    }
+  },
+  "basenji": {
+    "display_name": "Basenji",
+    "akc_group": "Hound",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Medium",
+    "weight_lbs": "30 - 50 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Basenji is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 3,
+    "grooming": 2,
+    "fun_fact": "The Basenji has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Basenji."
+    }
+  },
+  "basset": {
+    "display_name": "Basset Hound",
+    "akc_group": "Hound",
+    "origin": "France \ud83c\uddeb\ud83c\uddf7",
+    "size": "Medium",
+    "weight_lbs": "40 - 65 lbs",
+    "life_expectancy": "12 - 13 years",
+    "temperament": "Patient, Mild, Devoted, Charming",
+    "description": "Iconic scent hounds with elongated bodies, loose droopy skin, soulful eyes, and exceptional tracking power.",
+    "energy": 2,
+    "trainability": 2,
+    "kid_friendly": 5,
+    "apartment_friendly": 4,
+    "grooming": 2,
+    "fun_fact": "Their long velvety ears sweep scent particles up from the ground directly toward their nose as they walk!",
+    "lookalike": {
+      "name": "Bloodhound",
+      "tip": "Bloodhounds stand significantly taller on long legs, weighing up to 110 lbs, while Bassets are low to the ground."
+    }
+  },
+  "beagle": {
+    "display_name": "Beagle",
+    "akc_group": "Hound",
+    "origin": "United Kingdom \ud83c\uddec\ud83c\udde7",
+    "size": "Small to Medium",
+    "weight_lbs": "20 - 30 lbs",
+    "life_expectancy": "12 - 15 years",
+    "temperament": "Curious, Friendly, Merry, Determined",
+    "description": "Sturdy hunting hounds with an unmatched sense of smell and cheerful, loving family demeanor.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 5,
+    "apartment_friendly": 3,
+    "grooming": 2,
+    "fun_fact": "Beagles have approximately 220 million scent receptors compared to about 5 million in humans!",
+    "lookalike": {
+      "name": "Basset Hound",
+      "tip": "Beagles have much longer legs and lighter, athletic frames compared to the short-legged, heavy Basset."
+    }
+  },
+  "bedlington_terrier": {
+    "display_name": "Bedlington Terrier",
+    "akc_group": "Terrier",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Bedlington Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Bedlington Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Bedlington Terrier."
+    }
+  },
+  "bernese_mountain_dog": {
+    "display_name": "Bernese Mountain Dog",
+    "akc_group": "Working",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Bernese Mountain Dog is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Bernese Mountain Dog has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Bernese Mountain Dog."
+    }
+  },
+  "black_and_tan_coonhound": {
+    "display_name": "Black And Tan Coonhound",
+    "akc_group": "Hound",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Black And Tan Coonhound is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Black And Tan Coonhound has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Black And Tan Coonhound."
+    }
+  },
+  "blenheim_spaniel": {
+    "display_name": "Blenheim Spaniel",
+    "akc_group": "Sporting",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Blenheim Spaniel is a distinguished sporting breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Blenheim Spaniel has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Blenheim Spaniel."
+    }
+  },
+  "bloodhound": {
+    "display_name": "Bloodhound",
+    "akc_group": "Hound",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Bloodhound is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Bloodhound has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Bloodhound."
+    }
+  },
+  "bluetick": {
+    "display_name": "Bluetick",
+    "akc_group": "Hound",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Medium",
+    "weight_lbs": "30 - 50 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Bluetick is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 3,
+    "grooming": 2,
+    "fun_fact": "The Bluetick has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Bluetick."
+    }
+  },
+  "border_collie": {
+    "display_name": "Border Collie",
+    "akc_group": "Herding",
+    "origin": "Scotland \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Border Collie is a distinguished herding breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Border Collie has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Herding Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Border Collie."
+    }
+  },
+  "border_terrier": {
+    "display_name": "Border Terrier",
+    "akc_group": "Terrier",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Border Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Border Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Border Terrier."
+    }
+  },
+  "borzoi": {
+    "display_name": "Borzoi",
+    "akc_group": "Hound",
+    "origin": "Russia \ud83c\uddf7\ud83c\uddfa",
+    "size": "Medium",
+    "weight_lbs": "30 - 50 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Borzoi is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 3,
+    "grooming": 2,
+    "fun_fact": "The Borzoi has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Borzoi."
+    }
+  },
+  "boston_bull": {
+    "display_name": "Boston Bull",
+    "akc_group": "Non-Sporting",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Medium",
+    "weight_lbs": "30 - 50 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Boston Bull is a distinguished non-sporting breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 3,
+    "grooming": 2,
+    "fun_fact": "The Boston Bull has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Non-Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Boston Bull."
+    }
+  },
+  "bouvier_des_flandres": {
+    "display_name": "Bouvier Des Flandres",
+    "akc_group": "Herding",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Bouvier Des Flandres is a distinguished herding breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Bouvier Des Flandres has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Herding Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Bouvier Des Flandres."
+    }
+  },
+  "boxer": {
+    "display_name": "Boxer",
+    "akc_group": "Working",
+    "origin": "Germany \ud83c\udde9\ud83c\uddea",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Boxer is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Boxer has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Boxer."
+    }
+  },
+  "brabancon_griffon": {
+    "display_name": "Brabancon Griffon",
+    "akc_group": "Toy",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Brabancon Griffon is a distinguished toy breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 2,
+    "fun_fact": "The Brabancon Griffon has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Toy Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Brabancon Griffon."
+    }
+  },
+  "briard": {
+    "display_name": "Briard",
+    "akc_group": "Herding",
+    "origin": "France \ud83c\uddeb\ud83c\uddf7",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Briard is a distinguished herding breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Briard has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Herding Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Briard."
+    }
+  },
+  "brittany_spaniel": {
+    "display_name": "Brittany Spaniel",
+    "akc_group": "Sporting",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Brittany Spaniel is a distinguished sporting breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Brittany Spaniel has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Brittany Spaniel."
+    }
+  },
+  "bull_mastiff": {
+    "display_name": "Bull Mastiff",
+    "akc_group": "Working",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Giant",
+    "weight_lbs": "100 - 160 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Bull Mastiff is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 2,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 1,
+    "grooming": 2,
+    "fun_fact": "The Bull Mastiff has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Bull Mastiff."
+    }
+  },
+  "cairn": {
+    "display_name": "Cairn",
+    "akc_group": "Terrier",
+    "origin": "Scotland \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+    "size": "Medium",
+    "weight_lbs": "30 - 50 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Cairn is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 3,
+    "grooming": 2,
+    "fun_fact": "The Cairn has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Cairn."
+    }
+  },
+  "cardigan": {
+    "display_name": "Cardigan",
+    "akc_group": "Herding",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Cardigan is a distinguished herding breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Cardigan has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Herding Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Cardigan."
+    }
+  },
+  "chesapeake_bay_retriever": {
+    "display_name": "Chesapeake Bay Retriever",
+    "akc_group": "Sporting",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Chesapeake Bay Retriever is a distinguished sporting breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 4,
+    "fun_fact": "The Chesapeake Bay Retriever has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Chesapeake Bay Retriever."
+    }
+  },
+  "chihuahua": {
+    "display_name": "Chihuahua",
+    "akc_group": "Toy",
+    "origin": "Mexico \ud83c\uddf2\ud83c\uddfd",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Chihuahua is a distinguished toy breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 2,
+    "fun_fact": "The Chihuahua has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Toy Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Chihuahua."
+    }
+  },
+  "chow": {
+    "display_name": "Chow",
+    "akc_group": "Non-Sporting",
+    "origin": "China / Tibet \ud83c\udde8\ud83c\uddf3",
+    "size": "Medium",
+    "weight_lbs": "30 - 50 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Chow is a distinguished non-sporting breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 3,
+    "grooming": 2,
+    "fun_fact": "The Chow has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Non-Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Chow."
+    }
+  },
+  "clumber": {
+    "display_name": "Clumber",
+    "akc_group": "Working",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Clumber is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Clumber has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Clumber."
+    }
+  },
+  "cocker_spaniel": {
+    "display_name": "Cocker Spaniel",
+    "akc_group": "Sporting",
+    "origin": "United Kingdom \ud83c\uddec\ud83c\udde7",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Cocker Spaniel is a distinguished sporting breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Cocker Spaniel has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Cocker Spaniel."
+    }
+  },
+  "collie": {
+    "display_name": "Collie",
+    "akc_group": "Herding",
+    "origin": "Scotland \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Collie is a distinguished herding breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Collie has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Herding Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Collie."
+    }
+  },
+  "curly_coated_retriever": {
+    "display_name": "Curly Coated Retriever",
+    "akc_group": "Sporting",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Curly Coated Retriever is a distinguished sporting breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 4,
+    "fun_fact": "The Curly Coated Retriever has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Curly Coated Retriever."
+    }
+  },
+  "dandie_dinmont": {
+    "display_name": "Dandie Dinmont",
+    "akc_group": "Working",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Dandie Dinmont is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Dandie Dinmont has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Dandie Dinmont."
+    }
+  },
+  "dhole": {
+    "display_name": "Dhole",
+    "akc_group": "Working",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Dhole is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Dhole has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Dhole."
+    }
+  },
+  "dingo": {
+    "display_name": "Dingo",
+    "akc_group": "Working",
+    "origin": "Australia \ud83c\udde6\ud83c\uddfa",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Dingo is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Dingo has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Dingo."
+    }
+  },
+  "doberman": {
+    "display_name": "Doberman",
+    "akc_group": "Working",
+    "origin": "Germany \ud83c\udde9\ud83c\uddea",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Doberman is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Doberman has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Doberman."
+    }
+  },
+  "english_foxhound": {
+    "display_name": "English Foxhound",
+    "akc_group": "Hound",
+    "origin": "United Kingdom \ud83c\uddec\ud83c\udde7",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The English Foxhound is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The English Foxhound has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the English Foxhound."
+    }
+  },
+  "english_setter": {
+    "display_name": "English Setter",
+    "akc_group": "Sporting",
+    "origin": "United Kingdom \ud83c\uddec\ud83c\udde7",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The English Setter is a distinguished sporting breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 4,
+    "fun_fact": "The English Setter has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the English Setter."
+    }
+  },
+  "english_springer": {
+    "display_name": "English Springer",
+    "akc_group": "Working",
+    "origin": "United Kingdom \ud83c\uddec\ud83c\udde7",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The English Springer is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The English Springer has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the English Springer."
+    }
+  },
+  "entlebucher": {
+    "display_name": "Entlebucher",
+    "akc_group": "Herding",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Entlebucher is a distinguished herding breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Entlebucher has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Herding Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Entlebucher."
+    }
+  },
+  "eskimo_dog": {
+    "display_name": "Eskimo Dog",
+    "akc_group": "Working",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Eskimo Dog is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Eskimo Dog has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Eskimo Dog."
+    }
+  },
+  "flat_coated_retriever": {
+    "display_name": "Flat Coated Retriever",
+    "akc_group": "Sporting",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Flat Coated Retriever is a distinguished sporting breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 4,
+    "fun_fact": "The Flat Coated Retriever has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Flat Coated Retriever."
+    }
+  },
+  "french_bulldog": {
+    "display_name": "French Bulldog",
+    "akc_group": "Non-Sporting",
+    "origin": "France \ud83c\uddeb\ud83c\uddf7",
+    "size": "Small",
+    "weight_lbs": "16 - 28 lbs",
+    "life_expectancy": "10 - 12 years",
+    "temperament": "Adaptable, Playful, Alert, Affectionate",
+    "description": "Irresistible companion dogs featuring prominent bat ears, compact muscular builds, and comical attitudes.",
+    "energy": 2,
+    "trainability": 3,
+    "kid_friendly": 5,
+    "apartment_friendly": 5,
+    "grooming": 2,
+    "fun_fact": "Due to their heavy, compact front-heavy body structure, Frenchies cannot swim and must wear lifejackets near pools!",
+    "lookalike": {
+      "name": "Boston Terrier",
+      "tip": "Boston Terriers have longer, leaner legs with distinct tuxedo markings and pointed rather than rounded ear tips."
+    }
+  },
+  "german_shepherd": {
+    "display_name": "German Shepherd",
+    "akc_group": "Herding",
+    "origin": "Germany \ud83c\udde9\ud83c\uddea",
+    "size": "Large",
+    "weight_lbs": "50 - 90 lbs",
+    "life_expectancy": "7 - 10 years",
+    "temperament": "Courageous, Confident, Intelligent, Watchful",
+    "description": "Noble, versatile, and devoted working dogs celebrated globally for law enforcement, search and rescue, and loyal protection.",
+    "energy": 5,
+    "trainability": 5,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 4,
+    "fun_fact": "The very first guide dog for the blind in 1928 was a German Shepherd named Buddy!",
+    "lookalike": {
+      "name": "Belgian Malinois",
+      "tip": "Malinois are lighter, sleeker, and narrower in bone structure with solid black masks compared to German Shepherds."
+    }
+  },
+  "german_short_haired_pointer": {
+    "display_name": "German Short Haired Pointer",
+    "akc_group": "Sporting",
+    "origin": "Germany \ud83c\udde9\ud83c\uddea",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The German Short Haired Pointer is a distinguished sporting breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The German Short Haired Pointer has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the German Short Haired Pointer."
+    }
+  },
+  "giant_schnauzer": {
+    "display_name": "Giant Schnauzer",
+    "akc_group": "Terrier",
+    "origin": "Germany \ud83c\udde9\ud83c\uddea",
+    "size": "Medium",
+    "weight_lbs": "30 - 50 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Giant Schnauzer is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 3,
+    "grooming": 2,
+    "fun_fact": "The Giant Schnauzer has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Giant Schnauzer."
+    }
+  },
+  "golden_retriever": {
+    "display_name": "Golden Retriever",
+    "akc_group": "Sporting",
+    "origin": "Scotland \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+    "size": "Large",
+    "weight_lbs": "55 - 75 lbs",
+    "life_expectancy": "10 - 12 years",
+    "temperament": "Intelligent, Friendly, Devoted, Gentle",
+    "description": "Exuberant, gentle-hearted sporting dogs celebrated for their lustrous golden coat and supreme trainability.",
+    "energy": 4,
+    "trainability": 5,
+    "kid_friendly": 5,
+    "apartment_friendly": 2,
+    "grooming": 4,
+    "fun_fact": "Golden Retrievers have 'soft mouths' bred to retrieve waterfowl without puncturing or damaging feathers.",
+    "lookalike": {
+      "name": "Labrador Retriever",
+      "tip": "Goldens have long feathered feathering on ears, belly, and tail; Labs have a short, dense water-repellent coat."
+    }
+  },
+  "gordon_setter": {
+    "display_name": "Gordon Setter",
+    "akc_group": "Sporting",
+    "origin": "Scotland \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Gordon Setter is a distinguished sporting breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 4,
+    "fun_fact": "The Gordon Setter has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Gordon Setter."
+    }
+  },
+  "great_dane": {
+    "display_name": "Great Dane",
+    "akc_group": "Working",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Giant",
+    "weight_lbs": "100 - 160 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Great Dane is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 2,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 1,
+    "grooming": 2,
+    "fun_fact": "The Great Dane has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Great Dane."
+    }
+  },
+  "great_pyrenees": {
+    "display_name": "Great Pyrenees",
+    "akc_group": "Working",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Giant",
+    "weight_lbs": "100 - 160 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Great Pyrenees is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 2,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 1,
+    "grooming": 2,
+    "fun_fact": "The Great Pyrenees has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Great Pyrenees."
+    }
+  },
+  "greater_swiss_mountain_dog": {
+    "display_name": "Greater Swiss Mountain Dog",
+    "akc_group": "Working",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Greater Swiss Mountain Dog is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Greater Swiss Mountain Dog has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Greater Swiss Mountain Dog."
+    }
+  },
+  "groenendael": {
+    "display_name": "Groenendael",
+    "akc_group": "Herding",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Groenendael is a distinguished herding breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Groenendael has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Herding Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Groenendael."
+    }
+  },
+  "ibizan_hound": {
+    "display_name": "Ibizan Hound",
+    "akc_group": "Hound",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Ibizan Hound is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Ibizan Hound has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Ibizan Hound."
+    }
+  },
+  "irish_setter": {
+    "display_name": "Irish Setter",
+    "akc_group": "Sporting",
+    "origin": "Ireland \ud83c\uddee\ud83c\uddea",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Irish Setter is a distinguished sporting breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 4,
+    "fun_fact": "The Irish Setter has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Irish Setter."
+    }
+  },
+  "irish_terrier": {
+    "display_name": "Irish Terrier",
+    "akc_group": "Terrier",
+    "origin": "Ireland \ud83c\uddee\ud83c\uddea",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Irish Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Irish Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Irish Terrier."
+    }
+  },
+  "irish_water_spaniel": {
+    "display_name": "Irish Water Spaniel",
+    "akc_group": "Sporting",
+    "origin": "Ireland \ud83c\uddee\ud83c\uddea",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Irish Water Spaniel is a distinguished sporting breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Irish Water Spaniel has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Irish Water Spaniel."
+    }
+  },
+  "irish_wolfhound": {
+    "display_name": "Irish Wolfhound",
+    "akc_group": "Hound",
+    "origin": "Ireland \ud83c\uddee\ud83c\uddea",
+    "size": "Giant",
+    "weight_lbs": "100 - 160 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Irish Wolfhound is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 2,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 1,
+    "grooming": 2,
+    "fun_fact": "The Irish Wolfhound has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Irish Wolfhound."
+    }
+  },
+  "italian_greyhound": {
+    "display_name": "Italian Greyhound",
+    "akc_group": "Hound",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Italian Greyhound is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Italian Greyhound has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Italian Greyhound."
+    }
+  },
+  "japanese_spaniel": {
+    "display_name": "Japanese Spaniel",
+    "akc_group": "Sporting",
+    "origin": "Japan \ud83c\uddef\ud83c\uddf5",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Japanese Spaniel is a distinguished sporting breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Japanese Spaniel has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Japanese Spaniel."
+    }
+  },
+  "keeshond": {
+    "display_name": "Keeshond",
+    "akc_group": "Non-Sporting",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Medium",
+    "weight_lbs": "30 - 50 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Keeshond is a distinguished non-sporting breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 3,
+    "grooming": 2,
+    "fun_fact": "The Keeshond has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Non-Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Keeshond."
+    }
+  },
+  "kelpie": {
+    "display_name": "Kelpie",
+    "akc_group": "Herding",
+    "origin": "Australia \ud83c\udde6\ud83c\uddfa",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Kelpie is a distinguished herding breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Kelpie has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Herding Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Kelpie."
+    }
+  },
+  "kerry_blue_terrier": {
+    "display_name": "Kerry Blue Terrier",
+    "akc_group": "Terrier",
+    "origin": "Ireland \ud83c\uddee\ud83c\uddea",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Kerry Blue Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Kerry Blue Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Kerry Blue Terrier."
+    }
+  },
+  "komondor": {
+    "display_name": "Komondor",
+    "akc_group": "Herding",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Komondor is a distinguished herding breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 4,
+    "fun_fact": "The Komondor has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Herding Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Komondor."
+    }
+  },
+  "kuvasz": {
+    "display_name": "Kuvasz",
+    "akc_group": "Working",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Kuvasz is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Kuvasz has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Kuvasz."
+    }
+  },
+  "labrador_retriever": {
+    "display_name": "Labrador Retriever",
+    "akc_group": "Sporting",
+    "origin": "Canada \ud83c\udde8\ud83c\udde6",
+    "size": "Large",
+    "weight_lbs": "55 - 80 lbs",
+    "life_expectancy": "11 - 13 years",
+    "temperament": "Outgoing, Even-tempered, Gentle, Agile",
+    "description": "America's longtime top favorite breed, gifted with a waterproof double coat, otter tail, and boundless friendliness.",
+    "energy": 5,
+    "trainability": 5,
+    "kid_friendly": 5,
+    "apartment_friendly": 2,
+    "grooming": 3,
+    "fun_fact": "Labradors have webbed toes that act like natural flippers for swimming!",
+    "lookalike": {
+      "name": "Chesapeake Bay Retriever",
+      "tip": "Chessies have wavy, oily coats with amber or light eyes, whereas Labs have smooth straight coats."
+    }
+  },
+  "lakeland_terrier": {
+    "display_name": "Lakeland Terrier",
+    "akc_group": "Terrier",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Lakeland Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Lakeland Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Lakeland Terrier."
+    }
+  },
+  "leonberg": {
+    "display_name": "Leonberg",
+    "akc_group": "Working",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Giant",
+    "weight_lbs": "100 - 160 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Leonberg is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 2,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 1,
+    "grooming": 2,
+    "fun_fact": "The Leonberg has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Leonberg."
+    }
+  },
+  "lhasa": {
+    "display_name": "Lhasa",
+    "akc_group": "Non-Sporting",
+    "origin": "China / Tibet \ud83c\udde8\ud83c\uddf3",
+    "size": "Medium",
+    "weight_lbs": "30 - 50 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Lhasa is a distinguished non-sporting breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 3,
+    "grooming": 2,
+    "fun_fact": "The Lhasa has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Non-Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Lhasa."
+    }
+  },
+  "malamute": {
+    "display_name": "Malamute",
+    "akc_group": "Working",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Malamute is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Malamute has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Malamute."
+    }
+  },
+  "malinois": {
+    "display_name": "Malinois",
+    "akc_group": "Herding",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Malinois is a distinguished herding breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Malinois has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Herding Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Malinois."
+    }
+  },
+  "maltese_dog": {
+    "display_name": "Maltese Dog",
+    "akc_group": "Toy",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Maltese Dog is a distinguished toy breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 2,
+    "fun_fact": "The Maltese Dog has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Toy Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Maltese Dog."
+    }
+  },
+  "mexican_hairless": {
+    "display_name": "Mexican Hairless",
+    "akc_group": "Working",
+    "origin": "Mexico \ud83c\uddf2\ud83c\uddfd",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Mexican Hairless is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Mexican Hairless has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Mexican Hairless."
+    }
+  },
+  "miniature_pinscher": {
+    "display_name": "Miniature Pinscher",
+    "akc_group": "Toy",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Miniature Pinscher is a distinguished toy breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 2,
+    "fun_fact": "The Miniature Pinscher has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Toy Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Miniature Pinscher."
+    }
+  },
+  "miniature_poodle": {
+    "display_name": "Miniature Poodle",
+    "akc_group": "Non-Sporting",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Miniature Poodle is a distinguished non-sporting breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Miniature Poodle has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Non-Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Miniature Poodle."
+    }
+  },
+  "miniature_schnauzer": {
+    "display_name": "Miniature Schnauzer",
+    "akc_group": "Terrier",
+    "origin": "Germany \ud83c\udde9\ud83c\uddea",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Miniature Schnauzer is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 2,
+    "fun_fact": "The Miniature Schnauzer has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Miniature Schnauzer."
+    }
+  },
+  "newfoundland": {
+    "display_name": "Newfoundland",
+    "akc_group": "Working",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Giant",
+    "weight_lbs": "100 - 160 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Newfoundland is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 2,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 1,
+    "grooming": 2,
+    "fun_fact": "The Newfoundland has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Newfoundland."
+    }
+  },
+  "norfolk_terrier": {
+    "display_name": "Norfolk Terrier",
+    "akc_group": "Terrier",
+    "origin": "United Kingdom \ud83c\uddec\ud83c\udde7",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Norfolk Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Norfolk Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Norfolk Terrier."
+    }
+  },
+  "norwegian_elkhound": {
+    "display_name": "Norwegian Elkhound",
+    "akc_group": "Hound",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Norwegian Elkhound is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Norwegian Elkhound has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Norwegian Elkhound."
+    }
+  },
+  "norwich_terrier": {
+    "display_name": "Norwich Terrier",
+    "akc_group": "Terrier",
+    "origin": "United Kingdom \ud83c\uddec\ud83c\udde7",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Norwich Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Norwich Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Norwich Terrier."
+    }
+  },
+  "old_english_sheepdog": {
+    "display_name": "Old English Sheepdog",
+    "akc_group": "Herding",
+    "origin": "United Kingdom \ud83c\uddec\ud83c\udde7",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Old English Sheepdog is a distinguished herding breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Old English Sheepdog has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Herding Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Old English Sheepdog."
+    }
+  },
+  "otterhound": {
+    "display_name": "Otterhound",
+    "akc_group": "Hound",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Otterhound is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Otterhound has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Otterhound."
+    }
+  },
+  "papillon": {
+    "display_name": "Papillon",
+    "akc_group": "Toy",
+    "origin": "France \ud83c\uddeb\ud83c\uddf7",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Papillon is a distinguished toy breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 2,
+    "fun_fact": "The Papillon has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Toy Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Papillon."
+    }
+  },
+  "pekinese": {
+    "display_name": "Pekinese",
+    "akc_group": "Toy",
+    "origin": "China / Tibet \ud83c\udde8\ud83c\uddf3",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Pekinese is a distinguished toy breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 2,
+    "fun_fact": "The Pekinese has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Toy Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Pekinese."
+    }
+  },
+  "pembroke": {
+    "display_name": "Pembroke",
+    "akc_group": "Herding",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Pembroke is a distinguished herding breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Pembroke has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Herding Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Pembroke."
+    }
+  },
+  "pomeranian": {
+    "display_name": "Pomeranian",
+    "akc_group": "Toy",
+    "origin": "Germany / Poland \ud83c\udde9\ud83c\uddea",
+    "size": "Toy",
+    "weight_lbs": "3 - 7 lbs",
+    "life_expectancy": "12 - 16 years",
+    "temperament": "Lively, Extroverted, Intelligent, Feisty",
+    "description": "Tiny balls of fluff with huge personalities, glorious ruffs around their necks, and fox-like inquisitive faces.",
+    "energy": 3,
+    "trainability": 4,
+    "kid_friendly": 3,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "Queen Victoria popularized small Pomeranians in the 19th century and owned 35 of them simultaneously!",
+    "lookalike": {
+      "name": "Samoyed",
+      "tip": "Poms are miniature toy spitz descendants (3-7 lbs), while Samoyeds are 50+ lb working Arctic giants."
+    }
+  },
+  "pug": {
+    "display_name": "Pug",
+    "akc_group": "Toy",
+    "origin": "China \ud83c\udde8\ud83c\uddf3",
+    "size": "Small",
+    "weight_lbs": "14 - 18 lbs",
+    "life_expectancy": "13 - 15 years",
+    "temperament": "Charming, Loving, Playful, Docile",
+    "description": "Pugs are compact, muscular companion dogs renowned for their wrinkled brows, curled pig-like tails, and deep loyalty.",
+    "energy": 2,
+    "trainability": 3,
+    "kid_friendly": 5,
+    "apartment_friendly": 5,
+    "grooming": 3,
+    "fun_fact": "A group of pugs is officially called a 'Grumble'!",
+    "lookalike": {
+      "name": "French Bulldog",
+      "tip": "Pugs have folded 'rose' ears and curled tails, whereas Frenchies have upright bat-ears and stumpy tails."
+    }
+  },
+  "redbone": {
+    "display_name": "Redbone",
+    "akc_group": "Hound",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Medium",
+    "weight_lbs": "30 - 50 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Redbone is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 3,
+    "grooming": 2,
+    "fun_fact": "The Redbone has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Redbone."
+    }
+  },
+  "rhodesian_ridgeback": {
+    "display_name": "Rhodesian Ridgeback",
+    "akc_group": "Hound",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Medium",
+    "weight_lbs": "30 - 50 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Rhodesian Ridgeback is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 3,
+    "grooming": 2,
+    "fun_fact": "The Rhodesian Ridgeback has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Rhodesian Ridgeback."
+    }
+  },
+  "rottweiler": {
+    "display_name": "Rottweiler",
+    "akc_group": "Herding",
+    "origin": "Germany \ud83c\udde9\ud83c\uddea",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Rottweiler is a distinguished herding breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Rottweiler has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Herding Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Rottweiler."
+    }
+  },
+  "saint_bernard": {
+    "display_name": "Saint Bernard",
+    "akc_group": "Working",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Giant",
+    "weight_lbs": "100 - 160 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Saint Bernard is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 2,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 1,
+    "grooming": 2,
+    "fun_fact": "The Saint Bernard has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Saint Bernard."
+    }
+  },
+  "saluki": {
+    "display_name": "Saluki",
+    "akc_group": "Hound",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Medium",
+    "weight_lbs": "30 - 50 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Saluki is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 3,
+    "grooming": 2,
+    "fun_fact": "The Saluki has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Saluki."
+    }
+  },
+  "samoyed": {
+    "display_name": "Samoyed",
+    "akc_group": "Working",
+    "origin": "Siberia, Russia \ud83c\uddf7\ud83c\uddfa",
+    "size": "Medium to Large",
+    "weight_lbs": "45 - 65 lbs",
+    "life_expectancy": "12 - 14 years",
+    "temperament": "Friendly, Gentle, Adaptable, Cheerful",
+    "description": "Magnificent Arctic herding dogs famous for their smiling expressions ('Sammie smile') and lush, snow-white double coats.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 5,
+    "apartment_friendly": 2,
+    "grooming": 5,
+    "fun_fact": "Their upturned mouth corners prevent drool from forming icicles on their faces in sub-zero Arctic temperatures!",
+    "lookalike": {
+      "name": "Great Pyrenees",
+      "tip": "Samoyeds are smaller and feature prick ears with a curled tail, while Pyrenees have drop ears and are much larger."
+    }
+  },
+  "schipperke": {
+    "display_name": "Schipperke",
+    "akc_group": "Non-Sporting",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Medium",
+    "weight_lbs": "30 - 50 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Schipperke is a distinguished non-sporting breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 3,
+    "grooming": 2,
+    "fun_fact": "The Schipperke has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Non-Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Schipperke."
+    }
+  },
+  "scotch_terrier": {
+    "display_name": "Scotch Terrier",
+    "akc_group": "Terrier",
+    "origin": "Scotland \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Scotch Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Scotch Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Scotch Terrier."
+    }
+  },
+  "scottish_deerhound": {
+    "display_name": "Scottish Deerhound",
+    "akc_group": "Hound",
+    "origin": "Scotland \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Scottish Deerhound is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Scottish Deerhound has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Scottish Deerhound."
+    }
+  },
+  "sealyham_terrier": {
+    "display_name": "Sealyham Terrier",
+    "akc_group": "Terrier",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Sealyham Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Sealyham Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Sealyham Terrier."
+    }
+  },
+  "shetland_sheepdog": {
+    "display_name": "Shetland Sheepdog",
+    "akc_group": "Herding",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Shetland Sheepdog is a distinguished herding breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Shetland Sheepdog has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Herding Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Shetland Sheepdog."
+    }
+  },
+  "shih_tzu": {
+    "display_name": "Shih Tzu",
+    "akc_group": "Toy",
+    "origin": "China / Tibet \ud83c\udde8\ud83c\uddf3",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Shih Tzu is a distinguished toy breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 2,
+    "fun_fact": "The Shih Tzu has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Toy Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Shih Tzu."
+    }
+  },
+  "siberian_husky": {
+    "display_name": "Siberian Husky",
+    "akc_group": "Working",
+    "origin": "Siberia, Russia \ud83c\uddf7\ud83c\uddfa",
+    "size": "Medium",
+    "weight_lbs": "35 - 60 lbs",
+    "life_expectancy": "12 - 14 years",
+    "temperament": "Outgoing, Friendly, Fastidious, Playful",
+    "description": "Graceful Arctic sled dogs with striking blue or multicolored eyes, high endurance, and vocal howling personalities.",
+    "energy": 5,
+    "trainability": 3,
+    "kid_friendly": 5,
+    "apartment_friendly": 2,
+    "grooming": 4,
+    "fun_fact": "Huskies can regulate their metabolism so they burn energy without exhausting their glycogen stores on long sled runs!",
+    "lookalike": {
+      "name": "Alaskan Malamute",
+      "tip": "Malamutes are much heavier, have brown eyes only, and carry their tail curled over their back."
+    }
+  },
+  "silky_terrier": {
+    "display_name": "Silky Terrier",
+    "akc_group": "Terrier",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Silky Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Silky Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Silky Terrier."
+    }
+  },
+  "soft_coated_wheaten_terrier": {
+    "display_name": "Soft Coated Wheaten Terrier",
+    "akc_group": "Terrier",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Soft Coated Wheaten Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Soft Coated Wheaten Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Soft Coated Wheaten Terrier."
+    }
+  },
+  "staffordshire_bullterrier": {
+    "display_name": "Staffordshire Bullterrier",
+    "akc_group": "Terrier",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Staffordshire Bullterrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Staffordshire Bullterrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Staffordshire Bullterrier."
+    }
+  },
+  "standard_poodle": {
+    "display_name": "Standard Poodle",
+    "akc_group": "Non-Sporting",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Medium",
+    "weight_lbs": "30 - 50 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Standard Poodle is a distinguished non-sporting breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 3,
+    "grooming": 4,
+    "fun_fact": "The Standard Poodle has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Non-Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Standard Poodle."
+    }
+  },
+  "standard_schnauzer": {
+    "display_name": "Standard Schnauzer",
+    "akc_group": "Terrier",
+    "origin": "Germany \ud83c\udde9\ud83c\uddea",
+    "size": "Medium",
+    "weight_lbs": "30 - 50 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Standard Schnauzer is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 3,
+    "grooming": 2,
+    "fun_fact": "The Standard Schnauzer has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Standard Schnauzer."
+    }
+  },
+  "sussex_spaniel": {
+    "display_name": "Sussex Spaniel",
+    "akc_group": "Sporting",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Sussex Spaniel is a distinguished sporting breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Sussex Spaniel has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Sussex Spaniel."
+    }
+  },
+  "tibetan_mastiff": {
+    "display_name": "Tibetan Mastiff",
+    "akc_group": "Working",
+    "origin": "China / Tibet \ud83c\udde8\ud83c\uddf3",
+    "size": "Giant",
+    "weight_lbs": "100 - 160 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Tibetan Mastiff is a distinguished working breed admired for its unique character and heritage.",
+    "energy": 2,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 1,
+    "grooming": 2,
+    "fun_fact": "The Tibetan Mastiff has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Working Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Tibetan Mastiff."
+    }
+  },
+  "tibetan_terrier": {
+    "display_name": "Tibetan Terrier",
+    "akc_group": "Terrier",
+    "origin": "China / Tibet \ud83c\udde8\ud83c\uddf3",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Tibetan Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Tibetan Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Tibetan Terrier."
+    }
+  },
+  "toy_poodle": {
+    "display_name": "Toy Poodle",
+    "akc_group": "Toy",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Toy Poodle is a distinguished toy breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Toy Poodle has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Toy Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Toy Poodle."
+    }
+  },
+  "toy_terrier": {
+    "display_name": "Toy Terrier",
+    "akc_group": "Terrier",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Toy Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Toy Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Toy Terrier."
+    }
+  },
+  "vizsla": {
+    "display_name": "Vizsla",
+    "akc_group": "Sporting",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Vizsla is a distinguished sporting breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Vizsla has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Vizsla."
+    }
+  },
+  "walker_hound": {
+    "display_name": "Walker Hound",
+    "akc_group": "Hound",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Walker Hound is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Walker Hound has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Walker Hound."
+    }
+  },
+  "weimaraner": {
+    "display_name": "Weimaraner",
+    "akc_group": "Sporting",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Weimaraner is a distinguished sporting breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Weimaraner has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Weimaraner."
+    }
+  },
+  "welsh_springer_spaniel": {
+    "display_name": "Welsh Springer Spaniel",
+    "akc_group": "Sporting",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Large",
+    "weight_lbs": "50 - 80 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Welsh Springer Spaniel is a distinguished sporting breed admired for its unique character and heritage.",
+    "energy": 4,
+    "trainability": 4,
+    "kid_friendly": 4,
+    "apartment_friendly": 2,
+    "grooming": 2,
+    "fun_fact": "The Welsh Springer Spaniel has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Sporting Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Welsh Springer Spaniel."
+    }
+  },
+  "west_highland_white_terrier": {
+    "display_name": "West Highland White Terrier",
+    "akc_group": "Terrier",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The West Highland White Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The West Highland White Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the West Highland White Terrier."
+    }
+  },
+  "whippet": {
+    "display_name": "Whippet",
+    "akc_group": "Hound",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Medium",
+    "weight_lbs": "30 - 50 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Whippet is a distinguished hound breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 3,
+    "grooming": 2,
+    "fun_fact": "The Whippet has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Hound Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Whippet."
+    }
+  },
+  "wire_haired_fox_terrier": {
+    "display_name": "Wire Haired Fox Terrier",
+    "akc_group": "Terrier",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Wire Haired Fox Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Wire Haired Fox Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Wire Haired Fox Terrier."
+    }
+  },
+  "yorkshire_terrier": {
+    "display_name": "Yorkshire Terrier",
+    "akc_group": "Terrier",
+    "origin": "Europe / Americas \ud83c\udf0d",
+    "size": "Small",
+    "weight_lbs": "8 - 20 lbs",
+    "life_expectancy": "10 - 14 years",
+    "temperament": "Alert, Intelligent, Loyal, Trainable",
+    "description": "The Yorkshire Terrier is a distinguished terrier breed admired for its unique character and heritage.",
+    "energy": 3,
+    "trainability": 3,
+    "kid_friendly": 4,
+    "apartment_friendly": 5,
+    "grooming": 4,
+    "fun_fact": "The Yorkshire Terrier has a long and storied ancestry recognized by major international kennel organizations.",
+    "lookalike": {
+      "name": "Similar Terrier Breeds",
+      "tip": "Look at the ear posture, tail shape, and coat texture to differentiate the Yorkshire Terrier."
+    }
+  }
+}

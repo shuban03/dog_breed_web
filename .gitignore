@@ -19,8 +19,8 @@ images.tar
 *.log
 
 # Root duplicate model folder (backend/model is the active one)
-model/
-model
+/model/
+/model
 
 # Node dependencies
 node_modules/
